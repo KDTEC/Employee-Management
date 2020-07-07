@@ -1,0 +1,42 @@
+h1{
+	background-color:teal;
+	color:yellow;
+	font-size:2.8rem;
+	font-weight:900;
+	text-align:center;
+}
+.second{
+	text-align:center;
+	padding:1rem;
+	position:relative;
+}
+body{
+	background-color:teal;
+}
+.third{
+	color:yellow;
+	font-weight:900;
+	font-size:1.9rem;
+	border:0.8rem solid black;
+	border-radius:10px;
+	padding-top: 20px;
+	width:50%;
+	margin-left:27%;
+	text-align:center;
+}
+#text-field{
+	border:6px solid red;
+	border-radius:5px;
+	padding: 10px 25px;
+	font-size:1.5rem;
+}
+.submit-button{
+	padding: 15px 32px;
+	text-align:center;
+	font-size:1rem;
+	font-weight:bold;
+	margin: 4px 2px;
+	background-color:yellow;
+	border:5px solid red;
+	cursor:pointer;
+}
